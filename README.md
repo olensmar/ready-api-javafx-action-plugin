@@ -1,0 +1,1 @@
+A simple Ready-API Action that shows a DesktopPanel embedded a JavaFX Scene
